@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>icenlp</groupId>
+  <artifactId>icenlp-core</artifactId>
+  <version>11.4-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>11.4-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20110825001122</lastUpdated>
+  </versioning>
+</metadata>
